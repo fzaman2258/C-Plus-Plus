@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout<<"this test file";
+
+	cout<<"hi"<<endl;
+	return0;
+
+
+	cout<<"testing"<<endl;
+
+// aaaa
+
+}
+
+
